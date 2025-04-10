@@ -1,2 +1,3 @@
 # Completando-Scrum
-Entrega do projeto de Desafio de Projeto - SCRUM
+
+## link do miro: [https://miro.com/welcomeonboard/UndieTZLQmRudFZuRVh5QzBJanljR1NhNGFCT2NrQVp3S0NOeGFTZUlRdkU0S1dCUXdZUStZSUw5ZVhKYWNZN1V3bjEzcmp4SjRZSnhhemVPWlJYZThPaEh4Nnp3RXU3UXdvaDBlYVRTNmkwNDQ0bXlYYk9xZHgzK2w1Y00wQUFBd044SHFHaVlWYWk0d3NxeHNmeG9BPT0hdjE=?share_link_id=135371009045]
